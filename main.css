@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    background-color: #eee;
+}
+
+.row {
+    margin-top: 50px;
+}
+
+.loader {
+    display: none;
+}
